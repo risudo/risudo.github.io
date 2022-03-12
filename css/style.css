@@ -277,6 +277,11 @@ img {
   margin-bottom: 30px;
 }
 
+#profile ul {
+	list-style: none;
+}
+
+
 /*--------------------------------
  Contact
 ---------------------------------*/
