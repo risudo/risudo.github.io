@@ -203,12 +203,15 @@ img {
   font-size: 12px;
   font-weight: bold;
   margin-top: 8px;
+	text-align: center;
 }
 
 .works-info {
   font-size: 10px;
   margin-top: 5px;
+	text-align: center;
 }
+
 
 /*--------------------------------
  Skill
@@ -481,7 +484,9 @@ img {
   }
 
   .works-list {
-    justify-content: space-between;
+		display: block;
+    /* justify-content: space-between; */
+		text-align: center;
   }
 
   .works-item {
