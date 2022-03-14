@@ -196,6 +196,8 @@ img {
 }
 
 .works-img img {
+	width: 400px;
+	height: 350px;
   border: 1px solid #e6e6e6;
 }
 
@@ -277,8 +279,13 @@ img {
   margin-bottom: 30px;
 }
 
-#profile ul {
+.link-list {
 	list-style: none;
+	margin: auto;
+}
+
+.link-list li {
+	height: 40px;
 }
 
 
